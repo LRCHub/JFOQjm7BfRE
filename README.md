@@ -1,0 +1,98 @@
+# Ed Sheeran – South of the Border
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:09.72] She got the mmm, brown eyes, caramel thighs
+[00:12.66] Long hair, no wedding ring, hey
+[00:15.58] I saw you looking from across the way
+[00:17.56] And now I really wanna know your name
+[00:36.06] 
+[00:19.79] She got the mmm, white dress, but when she's wearing less
+[00:22.67] Man, you know that she drives me crazy
+[00:25.25] The mmm, brown eyes, beautiful smile
+[00:27.28] You know I love watching you do your thing
+[00:48.28] 
+[00:29.34] I love her hips, curves, lips say the words
+[00:32.62] "Te amo, mami, ah, te amo, mami"
+[00:34.92] I kiss her, this love is like a dream
+[00:53.42] 
+[00:38.98] So join me in this bed that I'm in
+[00:41.67] And push up on me and sweat, darling
+[00:43.94] So I'm gonna put my time in
+[00:46.76] I won't stop until the angels sing
+[00:48.95] Jump in that water, be free
+[00:51.24] Come south of the border with me
+[00:53.70] Jump in that water, be free
+[00:56.16] Come south of the border with me
+[01:12.16] 
+[00:58.81] He got that mmm, green eyes, giving me signs
+[01:01.77] That he really wants to know my name, hey
+[01:04.63] I saw you looking from across the way
+[01:06.58] And suddenly, I'm glad I came, ay
+[01:23.08] 
+[01:09.31] Ven para acá quiero bailar, toma mi mano
+[01:11.84] Quiero sentir tu cuerpo en mi, estás temblando
+[01:14.32] Mmm, green eyes, takin' your time
+[01:16.41] Now we'll know we'll never be the same
+[01:35.41] 
+[01:18.46] I love his lips 'cause he says the words
+[01:21.66] "Te amo, mami, ah, te amo, mami"
+[01:23.85] Don't wake up, this love is like a dream
+[01:43.85] 
+[01:27.91] So join me in this bed that I'm in
+[01:30.77] Push up on me and sweat, darling
+[01:33.02] So I'm gonna put my time in (time in)
+[01:35.99] I won't stop until the angels sing
+[01:37.93] Jump in that water, be free
+[01:40.22] Come south of the border with me
+[01:42.67] Jump in that water, be free
+[01:45.19] Come south of the border with me
+[02:01.19] 
+[01:48.10] Flawless diamonds
+[01:50.41] In a green field near Buenos Aires
+[01:52.52] Until the sun's rising
+[01:55.22] We won't stop until the angels sing
+[01:57.50] Jump in that water, be free
+[01:59.99] Come south of the border with me
+[02:02.36] Jump in that water, be free
+[02:04.66] Come south of the border with me (Bardi, uh)
+[02:26.66] 
+[02:08.24] You never live 'til you risk your life (life)
+[02:10.82] You wanna shine, you gotta get more ice (ice, ice)
+[02:13.38] Am I your lover or I'm just your vice? (Woo!)
+[02:15.61] A little crazy, but I'm just your type (okurrr)
+[02:39.11] 
+[02:17.62] You want the lips and the curves, need the whips and the furs
+[02:20.15] And the diamonds I prefer, and my closet his and hers, ayy
+[02:22.84] He want the lil' mamacita, margarita (margarita)
+[02:25.51] I think that Ed got a lil' jungle fever, ayy (woo!)
+[02:51.01] 
+[02:28.05] You want more than (you want more than)
+[02:29.48] Something borin' (something borin')
+[02:30.53] Legs open, tongue out, Michael Jordan, uh (uh)
+[02:32.76] Go explore in (woo, woo), somethin' foreign (skrrt, skrrt)
+[03:01.76] 
+[02:35.25] Bust it up, a rain forest, it be pourin', yeah
+[02:37.59] Kiss me like you need me, rub me like a genie
+[02:39.42] Pull up to my spot in Lamborghini
+[02:40.87] 'Cause you gotta see me, never leave me (leave me)
+[02:42.67] You got a girl that could finally do it all
+[02:44.55] Drop a album, drop a baby, but I never drop the ball, uh
+[03:12.55] 
+[02:46.46] So join me in this bed (this bed) that I'm in (that I'm in)
+[02:49.20] Push up on me and sweat, darling (oh, no, no, no)
+[02:51.57] So I'm gonna put my time in
+[02:54.03] I won't stop until the angels sing
+[02:56.30] Jump in that water, be free
+[02:58.57] Come south of the border with me
+[03:01.15] Come south of the border, border (hey)
+[03:03.62] Come south of the border with me
+[03:19.62] 
+[03:06.00] Come south of the border, border
+[03:08.45] Come south of the border with me
+[03:10.91] Jump in that water, be free
+[03:13.37] Come south of the border with me
+[03:15.71] Jump in that water, be free
+[03:18.36] Come south of the border with me
+```
