@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "South of the Border",
+  "base_artist": "Ed Sheeran",
+  "createdAt": "2026-02-07T13:04:31.424620Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "South Of The Border",
+      "artist": "Doobie Brothers",
+      "has_synced": true,
+      "path": "select/01_South_Of_The_Border_Doobie_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "South of the Border",
+      "artist": "Lio",
+      "has_synced": true,
+      "path": "select/02_South_of_the_Border_Lio.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "South of the Border",
+      "artist": "Cappadonna",
+      "has_synced": true,
+      "path": "select/03_South_of_the_Border_Cappadonna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "South of the Border",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/04_South_of_the_Border_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "South of the Border",
+      "artist": "Sinatra, Frank",
+      "has_synced": true,
+      "path": "select/05_South_of_the_Border_Sinatra,_Frank.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "south of the border",
+      "artist": "Jazztronik",
+      "has_synced": false,
+      "path": "select/06_south_of_the_border_Jazztronik.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "South of the Border",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/07_South_of_the_Border_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "South Of The Border",
+      "artist": "Chris Isaak",
+      "has_synced": true,
+      "path": "select/08_South_Of_The_Border_Chris_Isaak.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "South of the Border",
+      "artist": "Patsy Cline",
+      "has_synced": false,
+      "path": "select/09_South_of_the_Border_Patsy_Cline.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "South of the Border",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/10_South_of_the_Border_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "South Of The Border",
+      "artist": "James Last",
+      "has_synced": false,
+      "path": "select/11_South_Of_The_Border_James_Last.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "South Of The Border",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/12_South_Of_The_Border_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "South of the Border",
+      "artist": "Sam Cooke",
+      "has_synced": false,
+      "path": "select/13_South_of_the_Border_Sam_Cooke.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "South of the Border",
+      "artist": "Dean Martin",
+      "has_synced": false,
+      "path": "select/14_South_of_the_Border_Dean_Martin.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "South Of The Border",
+      "artist": "The Doobie Brothers",
+      "has_synced": true,
+      "path": "select/15_South_Of_The_Border_The_Doobie_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "South of the Border",
+      "artist": "Don McLean",
+      "has_synced": false,
+      "path": "select/16_South_of_the_Border_Don_McLean.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "South Of The Border",
+      "artist": "Ed Sheeran Feat. Camila Cabello & Cardi B",
+      "has_synced": false,
+      "path": "select/pl_01_South_Of_The_Border_Ed_Sheeran_Feat._Camila_Cabello_&_Cardi_B.txt"
+    }
+  ]
+}
